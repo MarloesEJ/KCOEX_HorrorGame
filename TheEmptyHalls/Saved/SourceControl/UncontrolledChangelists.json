@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Levels/Level1.umap",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/NewMap.umap",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Maps/NewMap.umap",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Maps/Level1.umap",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/HG_GameInstance.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/HG_GameMode.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/Level1/HG_GameMode.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/Level1/L1_GameMode.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/Level1/L1_Character.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/HG_PlayerController.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Interfaces/BPI_Interaction.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/BP_InteractionActor.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/assets/Textures/Crosshair.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/UMG/W_MainHUD.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/UMG/W_Crosshair.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/LevelPrototyping/Meshes/Doors/SM_Door_L.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/LevelPrototyping/Meshes/Doors/SM_Door_Frame.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/Interaction/BP_InteractionActor.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/Interaction/BP_Interaction.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/Interaction/BP_Interaction_Door.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/Interaction/BP_Interaction_OutwardsDoor.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/Grabbable/BP_PhysicsDoor.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Interfaces/BPI_Grab.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Materials/M_LightFlicker.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Materials/M_LightFlicker_Inst.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/BP_FlickeringLight.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/Interaction/BP_Interaction_LightSwitch.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Movement.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/Level1/L1_GameState.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/Level1/L1_HUD.uasset",
+				"C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/Game_BP/Level1/L1_PlayerState.uasset"
+			]
+		}
+	]
+}
