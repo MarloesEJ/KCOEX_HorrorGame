@@ -3983,3 +3983,504 @@ Script Stack (0 frames) :
 [2026.02.23-13.36.47:705][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto6
 [2026.02.23-13.36.47:705][851]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/W_InventorySlot_Auto64D0C6C904E5097195721FAACC55056BA.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/Autosaves/Game/UMG/Inventory/W_InventorySlot_Auto6.uasset'
 [2026.02.23-13.36.47:708][851]LogFileHelpers: Auto-saving content packages took 0.043
+[2026.02.23-13.39.57:928][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13312.114258
+[2026.02.23-13.39.58:928][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-13.39.58:928][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13312.779297, Update Interval: 354.308899
+[2026.02.23-13.46.39:311][626]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13713.444336
+[2026.02.23-13.46.40:310][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-13.46.40:310][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13714.110352, Update Interval: 329.109161
+[2026.02.23-13.52.40:589][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14074.666992
+[2026.02.23-13.52.41:589][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-13.52.41:589][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14075.333984, Update Interval: 315.456390
+[2026.02.23-13.56.27:558][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-13.56.27:607][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2026.02.23-13.56.27:607][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BlueprintComponents/BPC_Inventory]
+[2026.02.23-13.56.27:677][796]LogSavePackage: Moving output files for package: /Game/BluePrints/BlueprintComponents/BPC_Inventory
+[2026.02.23-13.56.27:678][796]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BPC_Inventory7E3E0B8F405872B99BECA5905E33B326.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Inventory.uasset'
+[2026.02.23-13.56.27:692][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.080 ms (total: 7.49 sec)
+[2026.02.23-13.56.27:748][796]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-13.56.27:748][796]LogContentValidation: Enabled validators:
+[2026.02.23-13.56.27:748][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-13.56.27:748][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-13.56.27:748][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-13.56.27:748][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-13.56.27:748][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-13.56.27:748][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-13.56.27:748][796]AssetCheck: /Game/BluePrints/BlueprintComponents/BPC_Inventory Validating asset
+[2026.02.23-13.57.21:264][ 21]LogBlueprint: Error: [AssetLog] C:\Users\marloes\Documents\GitHub\KCOEX_HorrorGame\TheEmptyHalls\Content\BluePrints\BlueprintComponents\BPC_Inventory.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.02.23-13.57.21:283][ 21]LogBlueprint: Error: [AssetLog] C:\Users\marloes\Documents\GitHub\KCOEX_HorrorGame\TheEmptyHalls\Content\BluePrints\BlueprintComponents\BPC_Inventory.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.02.23-13.57.21:317][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.02.23-13.57.21:956][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-13.57.21:999][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2026.02.23-13.57.21:999][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BlueprintComponents/BPC_Inventory]
+[2026.02.23-13.57.22:062][ 66]LogSavePackage: Moving output files for package: /Game/BluePrints/BlueprintComponents/BPC_Inventory
+[2026.02.23-13.57.22:062][ 66]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BPC_InventoryC0F07CB5410748777937B6A00F419ADB.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Inventory.uasset'
+[2026.02.23-13.57.22:079][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.650 ms (total: 7.61 sec)
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: Enabled validators:
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-13.57.22:126][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-13.57.22:126][ 66]AssetCheck: /Game/BluePrints/BlueprintComponents/BPC_Inventory Validating asset
+[2026.02.23-13.58.16:724][653]LogDerivedDataCache: C:/Users/marloes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.23-13.58.26:886][538]LogBlueprint: Error: [AssetLog] C:\Users\marloes\Documents\GitHub\KCOEX_HorrorGame\TheEmptyHalls\Content\BluePrints\BlueprintComponents\BPC_Inventory.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.02.23-13.58.26:886][538]LogBlueprint: Error: [AssetLog] C:\Users\marloes\Documents\GitHub\KCOEX_HorrorGame\TheEmptyHalls\Content\BluePrints\BlueprintComponents\BPC_Inventory.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.02.23-13.58.26:936][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.02.23-13.58.27:759][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-13.58.27:804][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2026.02.23-13.58.27:804][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BlueprintComponents/BPC_Inventory]
+[2026.02.23-13.58.27:865][621]LogSavePackage: Moving output files for package: /Game/BluePrints/BlueprintComponents/BPC_Inventory
+[2026.02.23-13.58.27:865][621]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BPC_Inventory71A53783495B566D596A65AC62718458.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Inventory.uasset'
+[2026.02.23-13.58.27:883][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.446 ms (total: 7.73 sec)
+[2026.02.23-13.58.27:938][621]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-13.58.27:938][621]LogContentValidation: Enabled validators:
+[2026.02.23-13.58.27:938][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-13.58.27:938][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-13.58.27:938][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-13.58.27:938][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-13.58.27:938][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-13.58.27:938][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-13.58.27:938][621]AssetCheck: /Game/BluePrints/BlueprintComponents/BPC_Inventory Validating asset
+[2026.02.23-13.58.45:601][937]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14439.598633
+[2026.02.23-13.58.45:778][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-13.58.45:779][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14439.766602, Update Interval: 329.739075
+[2026.02.23-14.02.13:206][304]LogUObjectHash: Compacting FUObjectHashTables data took  10.17ms
+[2026.02.23-14.02.14:149][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.02.14:199][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2026.02.23-14.02.14:199][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BlueprintComponents/BPC_Inventory]
+[2026.02.23-14.02.14:263][381]LogSavePackage: Moving output files for package: /Game/BluePrints/BlueprintComponents/BPC_Inventory
+[2026.02.23-14.02.14:264][381]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BPC_InventoryB05905264171BAF7F055A48AFAF7FA47.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Inventory.uasset'
+[2026.02.23-14.02.14:279][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.768 ms (total: 7.86 sec)
+[2026.02.23-14.02.14:332][381]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.02.14:332][381]LogContentValidation: Enabled validators:
+[2026.02.23-14.02.14:332][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.02.14:332][381]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.02.14:332][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.02.14:332][381]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.02.14:332][381]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.02.14:332][381]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.02.14:332][381]AssetCheck: /Game/BluePrints/BlueprintComponents/BPC_Inventory Validating asset
+[2026.02.23-14.02.18:925][787]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.23-14.02.18:937][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.02.18:937][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.02.18:942][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005116s)
+[2026.02.23-14.02.18:942][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005196s)
+[2026.02.23-14.02.18:978][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.02.23-14.02.18:983][787]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.23-14.02.18:985][787]LogPlayLevel: PIE: World Init took: (0.002424s)
+[2026.02.23-14.02.18:986][787]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.02.23-14.02.18:986][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.02.18:986][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.02.18:986][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.02.18:986][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.02.18:986][787]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.02.18:986][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.02.18:986][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.02.18:986][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.02.18:986][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.02.18:986][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.02.18:986][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.02.18:990][787]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.02.19:021][787]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (Razer Barracuda 2.4)
+[2026.02.23-14.02.19:022][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.02.19:022][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.02.19:022][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.02.19:023][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.02.23-14.02.19:023][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.02.23-14.02.19:025][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.02.23-14.02.19:025][787]LogInit: FAudioDevice initialized with ID 22.
+[2026.02.23-14.02.19:025][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.02.23-14.02.19:025][787]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level1'.
+[2026.02.23-14.02.19:025][787]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.02.23-14.02.19:063][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.02.19:063][787]LogLoad: Game class is 'L1_GameMode_C'
+[2026.02.23-14.02.19:065][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2026.02.23-15.02.19
+[2026.02.23-14.02.19:066][787]LogWorld: Bringing up level for play took: 0.002366
+[2026.02.23-14.02.19:091][787]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.02.23-14.02.19:126][787]PIE: Server logged in
+[2026.02.23-14.02.19:130][787]PIE: Play in editor total start time 0,194 seconds.
+[2026.02.23-14.02.21:149][788]LogPSOHitching: Encountered 100 PSO creation hitches so far (49 graphics, 51 compute). 0 of them were precached.
+[2026.02.23-14.02.33:287][594]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.02.33:287][594]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.02.23-14.02.33:287][594]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.23-14.02.38:423][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.02.38:423][871]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.02.38:423][871]LogSlate: Window 'TheEmptyHalls Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.23-14.02.38:435][871]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.02.38:436][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.02.38:437][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.02.38:446][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.02.38:483][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.02.38:483][871]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.02.23-14.02.38:483][871]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.02.23-14.02.38:688][871]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.02.23-14.02.38:706][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.02.23-14.02.38:780][872]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.02.23-14.02.41:903][ 77]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.23-14.02.41:914][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.02.41:914][ 77]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.02.41:919][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004671s)
+[2026.02.23-14.02.41:919][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004716s)
+[2026.02.23-14.02.41:949][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.02.23-14.02.41:951][ 77]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.23-14.02.41:953][ 77]LogPlayLevel: PIE: World Init took: (0.001999s)
+[2026.02.23-14.02.41:955][ 77]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.02.23-14.02.41:955][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.02.41:955][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.02.41:955][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.02.41:955][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.02.41:955][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.02.41:955][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.02.41:955][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.02.41:955][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.02.41:955][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.02.41:955][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.02.41:955][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.02.41:957][ 77]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.02.42:012][ 77]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (Razer Barracuda 2.4)
+[2026.02.23-14.02.42:012][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.02.42:012][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.02.42:012][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.02.42:013][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.02.23-14.02.42:013][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.02.23-14.02.42:015][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.02.23-14.02.42:015][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.02.23-14.02.42:015][ 77]LogInit: FAudioDevice initialized with ID 23.
+[2026.02.23-14.02.42:015][ 77]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level1'.
+[2026.02.23-14.02.42:015][ 77]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.02.23-14.02.42:045][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.02.42:045][ 77]LogLoad: Game class is 'L1_GameMode_C'
+[2026.02.23-14.02.42:048][ 77]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2026.02.23-15.02.42
+[2026.02.23-14.02.42:048][ 77]LogWorld: Bringing up level for play took: 0.002274
+[2026.02.23-14.02.42:051][ 77]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.02.23-14.02.42:062][ 77]PIE: Server logged in
+[2026.02.23-14.02.42:067][ 77]PIE: Play in editor total start time 0,154 seconds.
+[2026.02.23-14.02.42:727][ 81]LogSlate: Took 0.016994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.23-14.02.48:253][459]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.02.48:253][459]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.02.23-14.02.48:253][459]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.23-14.02.52:768][702]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.02.52:768][702]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.02.58:323][125]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.02.58:323][125]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.23-14.03.00:538][264]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.03.03:332][418]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.03.03:332][418]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.03.06:958][642]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.03.06:958][642]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.23-14.03.09:753][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.03.09:753][784]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.03.09:753][784]LogSlate: Window 'TheEmptyHalls Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.23-14.03.09:766][784]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.03.09:766][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.03.09:768][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.03.09:775][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.03.09:808][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.02.23-14.03.09:808][784]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.02.23-14.03.09:810][784]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.02.23-14.03.09:819][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.02.23-14.03.09:891][785]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.02.23-14.04.18:355][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.02.23-14.04.18:847][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.04.18:884][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2026.02.23-14.04.18:884][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BlueprintComponents/BPC_Inventory]
+[2026.02.23-14.04.18:949][509]LogSavePackage: Moving output files for package: /Game/BluePrints/BlueprintComponents/BPC_Inventory
+[2026.02.23-14.04.18:949][509]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BPC_Inventory68ED27224540F662907160987F48FEEA.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Inventory.uasset'
+[2026.02.23-14.04.18:965][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.886 ms (total: 7.98 sec)
+[2026.02.23-14.04.19:010][509]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.04.19:010][509]LogContentValidation: Enabled validators:
+[2026.02.23-14.04.19:010][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.04.19:010][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.04.19:010][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.04.19:010][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.04.19:010][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.04.19:010][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.04.19:010][509]AssetCheck: /Game/BluePrints/BlueprintComponents/BPC_Inventory Validating asset
+[2026.02.23-14.04.28:720][396]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.23-14.04.28:735][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.04.28:735][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.04.28:740][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004964s)
+[2026.02.23-14.04.28:740][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005008s)
+[2026.02.23-14.04.28:777][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.02.23-14.04.28:778][396]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.23-14.04.28:781][396]LogPlayLevel: PIE: World Init took: (0.002000s)
+[2026.02.23-14.04.28:782][396]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.02.23-14.04.28:782][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.04.28:782][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.04.28:782][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.04.28:782][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.04.28:782][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.04.28:783][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.04.28:783][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.04.28:783][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.04.28:783][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.04.28:783][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.04.28:783][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.04.28:785][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.04.28:818][396]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (Razer Barracuda 2.4)
+[2026.02.23-14.04.28:818][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.04.28:818][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.04.28:818][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.04.28:820][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.02.23-14.04.28:820][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.02.23-14.04.28:822][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.02.23-14.04.28:822][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.02.23-14.04.28:822][396]LogInit: FAudioDevice initialized with ID 24.
+[2026.02.23-14.04.28:822][396]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level1'.
+[2026.02.23-14.04.28:822][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.02.23-14.04.28:857][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.04.28:858][396]LogLoad: Game class is 'L1_GameMode_C'
+[2026.02.23-14.04.28:861][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2026.02.23-15.04.28
+[2026.02.23-14.04.28:861][396]LogWorld: Bringing up level for play took: 0.003647
+[2026.02.23-14.04.28:917][396]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.02.23-14.04.28:928][396]PIE: Server logged in
+[2026.02.23-14.04.28:933][396]PIE: Play in editor total start time 0,199 seconds.
+[2026.02.23-14.04.31:651][534]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.04.31:651][534]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.02.23-14.04.31:651][534]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.23-14.04.32:196][566]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.04.32:196][566]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.04.34:037][680]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.04.34:037][680]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.23-14.04.36:735][843]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.04.36:735][843]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.04.36:735][843]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.04.39:134][965]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.04.39:134][965]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.04.41:090][106]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.04.41:090][106]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.23-14.04.43:783][251]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.04.43:783][251]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.04.45:888][385]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.04.45:888][385]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.23-14.04.47:730][479]LogBlueprintUserMessages: [BP_InventoryItem_Flashlightbattery_C_0] Used battery
+[2026.02.23-14.04.47:730][479]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.04.49:474][568]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.04.49:474][568]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.04.50:276][605]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.04.50:276][605]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.04.51:015][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14805.142578
+[2026.02.23-14.04.51:195][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.04.51:195][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14805.310547, Update Interval: 353.309113
+[2026.02.23-14.04.51:638][701]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.04.51:638][701]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.23-14.04.53:874][837]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.04.53:874][837]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.04.54:532][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.04.54:532][884]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.04.54:534][884]LogSlate: Window 'TheEmptyHalls Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.23-14.04.54:553][884]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.04.54:554][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.04.54:555][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.04.54:562][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.04.54:598][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.04.54:599][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.02.23-14.04.54:599][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.02.23-14.04.54:602][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.02.23-14.04.54:612][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.02.23-14.04.54:684][885]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.02.23-14.06.31:808][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.06.31:854][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2026.02.23-14.06.31:854][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BlueprintComponents/BPC_Inventory]
+[2026.02.23-14.06.31:921][538]LogSavePackage: Moving output files for package: /Game/BluePrints/BlueprintComponents/BPC_Inventory
+[2026.02.23-14.06.31:922][538]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BPC_InventoryA6F78E5D4DA510A1369E9780672E7D64.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Inventory.uasset'
+[2026.02.23-14.06.31:945][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.895 ms (total: 8.12 sec)
+[2026.02.23-14.06.32:000][538]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.06.32:000][538]LogContentValidation: Enabled validators:
+[2026.02.23-14.06.32:000][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.06.32:000][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.06.32:000][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.06.32:000][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.06.32:000][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.06.32:001][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.06.32:001][538]AssetCheck: /Game/BluePrints/BlueprintComponents/BPC_Inventory Validating asset
+[2026.02.23-14.06.32:684][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.02.23-14.06.33:597][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.06.33:648][696]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BlueprintComponents/BPC_Inventory] ([2] browsable assets)...
+[2026.02.23-14.06.33:648][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BlueprintComponents/BPC_Inventory]
+[2026.02.23-14.06.33:713][696]LogSavePackage: Moving output files for package: /Game/BluePrints/BlueprintComponents/BPC_Inventory
+[2026.02.23-14.06.33:713][696]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BPC_Inventory062957D4460830C6A6A2FFA505C40D37.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/BlueprintComponents/BPC_Inventory.uasset'
+[2026.02.23-14.06.33:726][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.377 ms (total: 8.25 sec)
+[2026.02.23-14.06.33:771][696]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.06.33:771][696]LogContentValidation: Enabled validators:
+[2026.02.23-14.06.33:771][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.06.33:771][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.06.33:771][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.06.33:771][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.06.33:771][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.06.33:771][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.06.33:772][696]AssetCheck: /Game/BluePrints/BlueprintComponents/BPC_Inventory Validating asset
+[2026.02.23-14.06.40:972][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Actors/Inventory/PickupActors/BP_PickupActor_master.BP_PickupActor_master
+[2026.02.23-14.06.40:973][325]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2026.02.23-14.06.53:948][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.02.23-14.06.54:201][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.06.54:366][994]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Actors/Inventory/PickupActors/BP_PickupActor_master] ([2] browsable assets)...
+[2026.02.23-14.06.54:435][994]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Actors/Inventory/PickupActors/BP_PickupActor_master.BP_PickupActor_master]
+[2026.02.23-14.06.54:455][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Actors/Inventory/PickupActors/BP_PickupActor_master]
+[2026.02.23-14.06.54:478][994]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/Inventory/PickupActors/BP_PickupActor_master
+[2026.02.23-14.06.54:479][994]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/BP_PickupActor_master1E784FE14E6EE3328781808913E62CFC.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Content/BluePrints/Actors/Inventory/PickupActors/BP_PickupActor_master.uasset'
+[2026.02.23-14.06.54:492][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.417 ms (total: 8.54 sec)
+[2026.02.23-14.06.54:582][994]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.06.54:582][994]LogContentValidation: Enabled validators:
+[2026.02.23-14.06.54:582][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.06.54:582][994]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.06.54:582][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.06.54:582][994]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.06.54:582][994]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.06.54:582][994]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.06.54:582][994]AssetCheck: /Game/BluePrints/Actors/Inventory/PickupActors/BP_PickupActor_master Validating asset
+[2026.02.23-14.07.32:044][284]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.23-14.07.32:577][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.07.32:577][284]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.07.32:582][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004656s)
+[2026.02.23-14.07.32:582][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004692s)
+[2026.02.23-14.07.32:615][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.23-14.07.32:618][284]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.23-14.07.32:620][284]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2026.02.23-14.07.32:621][284]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.02.23-14.07.32:621][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.07.32:621][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.07.32:621][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.07.32:621][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.07.32:621][284]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.07.32:621][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.07.32:621][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.07.32:621][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.07.32:621][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.07.32:621][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.07.32:621][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.07.32:623][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.07.32:653][284]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (Razer Barracuda 2.4)
+[2026.02.23-14.07.32:653][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.07.32:653][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.07.32:653][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.07.32:653][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.02.23-14.07.32:653][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.02.23-14.07.32:688][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.02.23-14.07.32:688][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.02.23-14.07.32:688][284]LogInit: FAudioDevice initialized with ID 25.
+[2026.02.23-14.07.32:688][284]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level1'.
+[2026.02.23-14.07.32:688][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.02.23-14.07.32:731][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.07.32:731][284]LogLoad: Game class is 'L1_GameMode_C'
+[2026.02.23-14.07.32:733][284]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2026.02.23-15.07.32
+[2026.02.23-14.07.32:734][284]LogWorld: Bringing up level for play took: 0.002292
+[2026.02.23-14.07.32:737][284]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.02.23-14.07.32:751][284]PIE: Server logged in
+[2026.02.23-14.07.32:755][284]PIE: Play in editor total start time 0,7 seconds.
+[2026.02.23-14.07.40:992][767]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.07.40:992][767]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.02.23-14.07.40:992][767]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.23-14.07.46:756][ 70]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.07.46:757][ 70]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.07.48:703][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.07.48:703][165]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.07.48:703][165]LogSlate: Window 'TheEmptyHalls Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.23-14.07.48:713][165]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.07.48:714][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.07.48:714][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.07.48:722][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.07.48:758][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.07.48:758][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.02.23-14.07.48:758][165]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.02.23-14.07.48:761][165]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.02.23-14.07.48:771][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.02.23-14.07.48:913][166]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.02.23-14.07.50:958][314]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.23-14.07.50:968][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.07.50:968][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.07.50:974][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005586s)
+[2026.02.23-14.07.50:974][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005625s)
+[2026.02.23-14.07.51:005][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.02.23-14.07.51:008][314]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.02.23-14.07.51:009][314]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2026.02.23-14.07.51:010][314]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.02.23-14.07.51:010][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.07.51:010][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.07.51:010][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.07.51:010][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.07.51:010][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.07.51:010][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.07.51:010][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.07.51:010][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.07.51:010][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.07.51:010][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.07.51:010][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.07.51:012][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.07.51:044][314]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (Razer Barracuda 2.4)
+[2026.02.23-14.07.51:044][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.07.51:044][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.07.51:044][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.07.51:045][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.02.23-14.07.51:045][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.02.23-14.07.51:046][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.02.23-14.07.51:046][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.02.23-14.07.51:046][314]LogInit: FAudioDevice initialized with ID 26.
+[2026.02.23-14.07.51:046][314]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level1'.
+[2026.02.23-14.07.51:047][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.02.23-14.07.51:085][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.07.51:085][314]LogLoad: Game class is 'L1_GameMode_C'
+[2026.02.23-14.07.51:087][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2026.02.23-15.07.51
+[2026.02.23-14.07.51:088][314]LogWorld: Bringing up level for play took: 0.002075
+[2026.02.23-14.07.51:252][314]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.02.23-14.07.51:263][314]PIE: Server logged in
+[2026.02.23-14.07.51:267][314]PIE: Play in editor total start time 0,299 seconds.
+[2026.02.23-14.07.58:342][783]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.07.58:342][783]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.02.23-14.07.58:343][783]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.02.23-14.08.01:737][980]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.08.01:737][980]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.08.02:584][ 27]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.08.02:584][ 27]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.08.05:952][250]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.08.05:952][250]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.02.23-14.08.07:674][347]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.08.07:674][347]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.08.07:674][347]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.08.07:674][347]LogBlueprintUserMessages: [BPC_Inventory] Minus 1
+[2026.02.23-14.08.08:555][393]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.08.08:555][393]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.02.23-14.08.11:011][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.08.11:011][531]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2026.02.23-14.08.11:013][531]LogSlate: Window 'TheEmptyHalls Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.23-14.08.11:056][531]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.08.11:056][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.08.11:057][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.08.11:066][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.08.11:099][531]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.02.23-14.08.11:099][531]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.02.23-14.08.11:101][531]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.02.23-14.08.11:108][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.02.23-14.08.11:960][532]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.02.23-14.11.37:704][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15211.819336
+[2026.02.23-14.11.38:705][941]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.11.38:705][941]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15212.487305, Update Interval: 359.060638
+[2026.02.23-14.18.09:742][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15603.815430
+[2026.02.23-14.18.10:743][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.18.10:743][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15604.481445, Update Interval: 352.254395
+[2026.02.23-14.23.10:359][  8]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.23-14.24.25:361][238]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2026.02.23-14.24.25:481][239]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2026.02.23-14.24.25:518][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2026.02.23-14.24.25:561][241]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_71
+[2026.02.23-14.24.48:416][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16002.460938
+[2026.02.23-14.24.48:961][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.24.48:961][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16002.995117, Update Interval: 338.737152
+[2026.02.23-14.24.52:963][804]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.25.40:362][452]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.23-14.25.40:398][452]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.23-14.25.40:407][452]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.23-14.25.40:439][453]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.23-14.25.48:731][  3]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_PickUpPrompt
+[2026.02.23-14.25.49:859][  3]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.23-14.26.27:627][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.02.23-14.26.27:631][470]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.060
+[2026.02.23-14.26.27:764][470]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UMG/Inventory/W_PickUpPrompt] ([2] browsable assets)...
+[2026.02.23-14.26.27:769][470]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UMG/Inventory/W_PickUpPrompt.W_PickUpPrompt]
+[2026.02.23-14.26.27:770][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory/W_PickUpPrompt]
+[2026.02.23-14.26.27:782][470]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UMG/Inventory/W_PickUpPrompt_Auto7
+[2026.02.23-14.26.27:782][470]LogSavePackage: Moving 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/W_PickUpPrompt_Auto796D3B0324655E393B3263DB4B29F4F63.tmp' to 'C:/Users/marloes/Documents/GitHub/KCOEX_HorrorGame/TheEmptyHalls/Saved/Autosaves/Game/UMG/Inventory/W_PickUpPrompt_Auto7.uasset'
+[2026.02.23-14.26.27:783][470]LogFileHelpers: Auto-saving content packages took 0.152
